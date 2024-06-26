@@ -3,6 +3,7 @@
 #### Công nghệ sử dụng:
 - Front-end: Html, Css, Javascript
 - Back-end: PHP
+- Cơ sở dữ liệu: MySQL
 #### Mô tả chức năng chính:
 - CRUD: user, sản phẩm (sắp xếp, tìm kiếm, phân trang)
 - Đăng nhập, đăng ký, phân quyền
